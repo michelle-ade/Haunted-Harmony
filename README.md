@@ -20,6 +20,7 @@ Unreal Engine 5.3 - Game Development, Blueprint Logic
 Blender - 3D Character, Object & Environment Modelling
 BandLab - Music Composition
 Krita - Textures, 2D Decals
+
 ---
 
 This project served as a comprehensive introduction to the full production process, from visual development and prototyping to asset design and technical implementations.
